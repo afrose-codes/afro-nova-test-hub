@@ -1,0 +1,121 @@
+/* BODY */
+body{
+    font-family: Arial, sans-serif;
+    background: linear-gradient(135deg,#0f2027,#203a43,#2c5364);
+    margin:0;
+    padding:0;
+}
+
+/* MAIN CONTAINER */
+.container{
+    width: 50%;
+    margin: 80px auto;
+    background: #1e1e2f;
+    padding: 40px;
+    border-radius: 15px;
+    text-align:center;
+    color:white;
+    box-shadow:0px 0px 20px black;
+}
+
+/* HEADINGS */
+h1{
+    font-size:30px;
+}
+
+h2{
+    margin-bottom:20px;
+}
+
+/* TEXT */
+p{
+    color:#ccc;
+}
+
+/* INPUT FIELDS */
+input{
+    width:80%;
+    padding:10px;
+    margin:10px 0;
+    border-radius:5px;
+    border:none;
+}
+
+/* BUTTONS */
+button, .btn{
+    padding:12px 25px;
+    background:#4CAF50;
+    color:white;
+    border:none;
+    border-radius:8px;
+    cursor:pointer;
+    text-decoration:none;
+    font-size:16px;
+}
+
+button:hover, .btn:hover{
+    background:#45a049;
+}
+
+/* QUESTION BOX */
+.question-box{
+    text-align:left;
+    margin-bottom:20px;
+    padding:15px;
+    background:#2a2a40;
+    border-radius:8px;
+}
+
+/* OPTIONS (FIX ZIG-ZAG ISSUE) */
+.options{
+    margin-top:10px;
+}
+
+.option{
+    display:flex;
+    align-items:center;
+    gap:10px;
+    background:#2a2a40;
+    padding:10px;
+    margin:8px 0;
+    border-radius:6px;
+    cursor:pointer;
+}
+
+.option:hover{
+    background:#3a3a60;
+}
+
+.option input{
+    width:auto;
+}
+
+/* TIMER */
+.timer{
+    font-size:18px;
+    color:red;
+    float:right;
+}
+
+/* RESULT BOX */
+.result-box{
+    background:#2a2a40;
+    padding:20px;
+    border-radius:10px;
+    margin-top:15px;
+}
+
+/* FEEDBACK BOX */
+.feedback-box{
+    background:#1e1e2f;
+    padding:20px;
+    border-radius:10px;
+    margin-top:15px;
+    animation: pop 0.5s ease;
+}
+
+/* ANIMATION */
+@keyframes pop{
+    from{transform:scale(0.8); opacity:0;}
+    to{transform:scale(1); opacity:1;}
+}
