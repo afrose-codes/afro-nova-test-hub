@@ -59,4 +59,4 @@ An online examination system developed to conduct tests efficiently with admin a
 
 ## 👤 Author
 
-Your Name
+AFROSE BEEMA M A
