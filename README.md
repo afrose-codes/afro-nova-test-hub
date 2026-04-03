@@ -53,7 +53,7 @@ An online examination system developed to conduct tests efficiently with admin a
 2. Place project in `htdocs`  
 3. Start Apache & MySQL  
 4. Open browser:  
-   http://localhost/afro_nova_test_hub  
+   http://localhost/afro-nova-test-hub  
 
 ---
 
