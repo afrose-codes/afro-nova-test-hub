@@ -6,7 +6,9 @@ An online examination system developed to conduct tests efficiently with admin a
 
 ## 🎥 Project Demo
 
-[▶️ Watch Demo Video](./demo-video.mp4)
+[Watch Demo Video](https://youtu.be/RWrTwAFpe9I?si=LyLHMkDjGUbACXr_)
+
+▶️ Click above to watch the full demo
 
 ---
 
