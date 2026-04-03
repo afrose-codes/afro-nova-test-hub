@@ -4,6 +4,12 @@ An online examination system developed to conduct tests efficiently with admin a
 
 ---
 
+## 🎥 Project Demo
+
+[▶️ Watch Demo Video](./demo-video.mp4)
+
+---
+
 ## 🚀 Features
 
 - Admin login and dashboard
